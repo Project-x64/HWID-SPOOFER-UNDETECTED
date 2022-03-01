@@ -43,12 +43,7 @@ Current Status Undetected
 - Rainbow Six Siege 
 - Splitegate
 - Super People
-- Valorant 
-
-## ✨ DONATE Buy Me Coffee
-
-BTC -** 144feg2TVeVjhLfXVrKvaTzu2ViX4gYv6q**
-
+- Valorant
 
 ## 🗿 Disclaimer
 We are not responsible for any ban.
